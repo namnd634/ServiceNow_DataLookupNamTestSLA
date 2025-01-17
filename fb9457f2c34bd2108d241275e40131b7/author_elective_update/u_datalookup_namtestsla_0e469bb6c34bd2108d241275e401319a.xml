@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="u_datalookup_namtestsla">
+    <u_datalookup_namtestsla action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>u_datalookup_namtestsla</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 08:26:48</sys_created_on>
+        <sys_id>0e469bb6c34bd2108d241275e401319a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_update_name>u_datalookup_namtestsla_0e469bb6c34bd2108d241275e401319a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 08:26:48</sys_updated_on>
+        <u_incident_impact>extensive/widespread</u_incident_impact>
+        <u_incident_priority>p1</u_incident_priority>
+        <u_incident_urgency>high</u_incident_urgency>
+    </u_datalookup_namtestsla>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</application>
+        <file_path/>
+        <instance_id>8082d2d2ebb7c694e9bbfddacad0cdde</instance_id>
+        <instance_name>dev286046</instance_name>
+        <name>u_datalookup_namtestsla_0e469bb6c34bd2108d241275e401319a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_datalookup_namtestsla"><u_datalookup_namtestsla action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sys_class_name>u_datalookup_namtestsla</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-16 08:26:48</sys_created_on><sys_id>0e469bb6c34bd2108d241275e401319a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package><sys_policy/><sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope><sys_update_name>u_datalookup_namtestsla_0e469bb6c34bd2108d241275e401319a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-16 08:26:48</sys_updated_on><u_incident_impact>extensive/widespread</u_incident_impact><u_incident_priority>p1</u_incident_priority><u_incident_urgency>high</u_incident_urgency></u_datalookup_namtestsla></record_update>]]></payload>
+        <payload_hash>1953910853</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>be2ef2b5c34712108d241275e4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 08:26:48</sys_created_on>
+        <sys_id>e74697b6c34bd2108d241275e4013110</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1946e38de050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 08:26:48</sys_updated_on>
+        <type>DataLookup namtestsla</type>
+        <update_guid>eb4697b61a4bd2107df3f0e52fa7530f</update_guid>
+        <update_guid_history>eb4697b61a4bd2107df3f0e52fa7530f:1953910853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">80079bf6c34bd2108d241275e4013196</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 08:29:50</sys_created_on>
+        <sys_db_object display_value="" name="u_datalookup_namtestsla">u_datalookup_namtestsla</sys_db_object>
+        <sys_id>0a8b41bf0a744fce82570fa0f679fe31</sys_id>
+        <sys_metadata>0e469bb6c34bd2108d241275e401319a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_scope_delete display_value="">9849f9989a16417f8731158a71023ba9</sys_scope_delete>
+        <sys_update_name>u_datalookup_namtestsla_0e469bb6c34bd2108d241275e401319a</sys_update_name>
+        <sys_update_version display_value="u_datalookup_namtestsla_0e469bb6c34bd2108d241275e401319a">e74697b6c34bd2108d241275e4013110</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 08:29:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
