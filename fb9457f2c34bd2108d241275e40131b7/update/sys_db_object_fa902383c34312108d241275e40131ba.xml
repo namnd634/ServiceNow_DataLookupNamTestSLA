@@ -6,13 +6,13 @@
         <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
-        <create_access_controls>false</create_access_controls>
-        <delete_access>false</delete_access>
-        <is_extendable>true</is_extendable>
-        <label>DataLookup namtestsla</label>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Datalookup Assignmentgroup Namtestla</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>u_datalookup_namtestsla</name>
+        <name>u_datalookup_assignmentgroup_namtestla</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
@@ -20,18 +20,18 @@
         <super_class display_value="Data Lookup Matcher Rules" name="dl_matcher">9c2557a4dcd212104f34465061b06a0d</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-16 08:20:21</sys_created_on>
-        <sys_id>c5d41336c34bd2108d241275e401314a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>DataLookup namtestsla</sys_name>
+        <sys_created_on>2025-01-17 03:52:07</sys_created_on>
+        <sys_id>fa902383c34312108d241275e40131ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DataLookup assignmentgroup namtestla</sys_name>
         <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
-        <sys_update_name>sys_db_object_c5d41336c34bd2108d241275e401314a</sys_update_name>
+        <sys_update_name>sys_db_object_fa902383c34312108d241275e40131ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-17 03:45:03</sys_updated_on>
-        <update_access>false</update_access>
-        <user_role/>
+        <sys_updated_on>2025-01-17 03:52:07</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="u_datalookup_assignmentgroup_namtestla_user" name="u_datalookup_assignmentgroup_namtestla_user">21012f83c34312108d241275e4013169</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

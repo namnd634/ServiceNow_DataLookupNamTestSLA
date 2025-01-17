@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="fa902383c34312108d241275e40131ba" extends="dl_matcher" label="DataLookup assignmentgroup namtestla" max_length="40" name="u_datalookup_assignmentgroup_namtestla" type="collection">
+        <element label="Incident Assigned to" max_length="32" name="u_incident_assigned_to" reference="sys_user" type="reference"/>
+        <element label="Incident Assignment group" max_length="32" name="u_incident_assignment_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="u_incident_assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="u_incident_assignment_group"/>
+        </index>
+    </element>
+</database>

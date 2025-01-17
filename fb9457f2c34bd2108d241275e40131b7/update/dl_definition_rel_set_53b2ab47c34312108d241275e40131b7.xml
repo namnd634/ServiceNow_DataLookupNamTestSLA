@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="INSERT_OR_UPDATE">
+        <always_replace>true</always_replace>
+        <dl_definition display_value="Assignment group Definition">2282a747c34312108d241275e401317f</dl_definition>
+        <matcher_table>u_datalookup_assignmentgroup_namtestla</matcher_table>
+        <matcher_table_field>u_incident_assigned_to</matcher_table_field>
+        <source_table>u_nam_incident</source_table>
+        <source_table_field>u_incident_assigned_to</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:59:45</sys_created_on>
+        <sys_id>53b2ab47c34312108d241275e40131b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_incident_assigned_to</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_update_name>dl_definition_rel_set_53b2ab47c34312108d241275e40131b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:59:45</sys_updated_on>
+    </dl_definition_rel_set>
+</record_update>

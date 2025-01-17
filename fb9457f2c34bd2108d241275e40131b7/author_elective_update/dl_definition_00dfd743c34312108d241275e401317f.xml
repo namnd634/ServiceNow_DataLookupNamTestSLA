@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="DELETE">
+        <active>true</active>
+        <matcher_table>u_datalookup_namtestsla</matcher_table>
+        <name>Assignment group Definition</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>false</run_on_update>
+        <source_table>u_nam_incident</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:47:28</sys_created_on>
+        <sys_id>00dfd743c34312108d241275e401317f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment group Definition</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_update_name>dl_definition_00dfd743c34312108d241275e401317f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:47:28</sys_updated_on>
+    </dl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</application>
+        <file_path/>
+        <instance_id>8082d2d2ebb7c694e9bbfddacad0cdde</instance_id>
+        <instance_name>dev286046</instance_name>
+        <name>dl_definition_00dfd743c34312108d241275e401317f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition"><dl_definition action="INSERT_OR_UPDATE"><active>true</active><matcher_table>u_datalookup_namtestsla</matcher_table><name>Assignment group Definition</name><run_on_form_change>true</run_on_form_change><run_on_insert>true</run_on_insert><run_on_update>false</run_on_update><source_table>u_nam_incident</source_table><sys_class_name>dl_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-17 03:47:28</sys_created_on><sys_id>00dfd743c34312108d241275e401317f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assignment group Definition</sys_name><sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package><sys_policy/><sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope><sys_update_name>dl_definition_00dfd743c34312108d241275e401317f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-17 03:47:28</sys_updated_on></dl_definition></record_update>]]></payload>
+        <payload_hash>247075711</payload_hash>
+        <record_name>Assignment group Definition</record_name>
+        <reverted_from/>
+        <source>be2ef2b5c34712108d241275e4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:47:28</sys_created_on>
+        <sys_id>e9ff1743c34312108d241275e4013151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194725f7fef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:47:28</sys_updated_on>
+        <type>Data Lookup Definitions</type>
+        <update_guid>edff1743054312107435d7066ad85450</update_guid>
+        <update_guid_history>edff1743054312107435d7066ad85450:247075711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assignment group Definition">7c706783c34312108d241275e401317f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:49:37</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition">dl_definition</sys_db_object>
+        <sys_id>3038fd47a6a046dca6a79a7f39db6bd9</sys_id>
+        <sys_metadata>00dfd743c34312108d241275e401317f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment group Definition</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_scope_delete display_value="">9849f9989a16417f8731158a71023ba9</sys_scope_delete>
+        <sys_update_name>dl_definition_00dfd743c34312108d241275e401317f</sys_update_name>
+        <sys_update_version display_value="dl_definition_00dfd743c34312108d241275e401317f">e9ff1743c34312108d241275e4013151</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:49:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

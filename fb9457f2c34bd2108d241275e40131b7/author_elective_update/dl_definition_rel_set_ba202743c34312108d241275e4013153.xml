@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="DELETE">
+        <always_replace>true</always_replace>
+        <dl_definition display_value="Assignment group Definition">00dfd743c34312108d241275e401317f</dl_definition>
+        <matcher_table>u_datalookup_namtestsla</matcher_table>
+        <matcher_table_field>u_incident_assigned_to</matcher_table_field>
+        <source_table>u_nam_incident</source_table>
+        <source_table_field>u_incident_assigned_to</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:48:32</sys_created_on>
+        <sys_id>ba202743c34312108d241275e4013153</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_incident_assigned_to</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_update_name>dl_definition_rel_set_ba202743c34312108d241275e4013153</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:48:32</sys_updated_on>
+    </dl_definition_rel_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</application>
+        <file_path/>
+        <instance_id>8082d2d2ebb7c694e9bbfddacad0cdde</instance_id>
+        <instance_name>dev286046</instance_name>
+        <name>dl_definition_rel_set_ba202743c34312108d241275e4013153</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set"><dl_definition_rel_set action="INSERT_OR_UPDATE"><always_replace>true</always_replace><dl_definition display_value="Assignment group Definition">00dfd743c34312108d241275e401317f</dl_definition><matcher_table>u_datalookup_namtestsla</matcher_table><matcher_table_field>u_incident_assigned_to</matcher_table_field><source_table>u_nam_incident</source_table><source_table_field>u_incident_assigned_to</source_table_field><sys_class_name>dl_definition_rel_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-17 03:48:32</sys_created_on><sys_id>ba202743c34312108d241275e4013153</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_incident_assigned_to</sys_name><sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package><sys_policy/><sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope><sys_update_name>dl_definition_rel_set_ba202743c34312108d241275e4013153</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-17 03:48:32</sys_updated_on></dl_definition_rel_set></record_update>]]></payload>
+        <payload_hash>448874685</payload_hash>
+        <record_name>u_incident_assigned_to</record_name>
+        <reverted_from/>
+        <source>be2ef2b5c34712108d241275e4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:48:32</sys_created_on>
+        <sys_id>7c30ef43c34312108d241275e4013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194726077230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:48:32</sys_updated_on>
+        <type>Setter Field Definitions</type>
+        <update_guid>7030ef43c9431210abea0ed0cd065786</update_guid>
+        <update_guid_history>7030ef43c9431210abea0ed0cd065786:448874685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_incident_assigned_to">b8706783c34312108d241275e4013189</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 03:49:37</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_set">dl_definition_rel_set</sys_db_object>
+        <sys_id>10379a1ed1bc4710a59fa6d55329e964</sys_id>
+        <sys_metadata>ba202743c34312108d241275e4013153</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_incident_assigned_to</sys_name>
+        <sys_package display_value="DataLookup NamTestSLA" source="fb9457f2c34bd2108d241275e40131b7">fb9457f2c34bd2108d241275e40131b7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup NamTestSLA">fb9457f2c34bd2108d241275e40131b7</sys_scope>
+        <sys_scope_delete display_value="">9849f9989a16417f8731158a71023ba9</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_set_ba202743c34312108d241275e4013153</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_set_ba202743c34312108d241275e4013153">7c30ef43c34312108d241275e4013186</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 03:49:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
